@@ -1,0 +1,14 @@
+.nav {
+    background-color: rgb(21, 67, 96 );
+    height: 100;
+    padding: 13px;
+    margin-top: -10px;
+    padding-right: 0;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align:center;
+    font-style:monospace;
+    font-size: 20px;
+    color: white;
+}
+  
